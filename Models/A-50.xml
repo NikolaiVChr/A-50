@@ -2492,5 +2492,22 @@
       <z-m> -2.24515 </z-m>
     </offsets>
   </model>
+
+  <animation>
+    <type>spin</type>
+    <object-name>Radome</object-name>
+    <property>sim/multiplay/generic/int[13]</property>
+    <factor>-6</factor>
+    <center>
+      <x-m>-5.55947</x-m>
+      <y-m>0.05</y-m>
+      <z-m>6.256</z-m>
+    </center>
+    <axis>
+      <x>0</x>
+      <y>0</y>
+      <z>1</z>
+    </axis>
+  </animation>
   
 </PropertyList>
