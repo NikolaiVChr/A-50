@@ -444,8 +444,8 @@
   <animation>
     <type>spin</type>
     <object-name>heliceG1E</object-name>
-    <property>engines/engine[0]/n1</property>
-    <factor> 10 </factor>
+    <property>sim/multiplay/generic/int[13]</property>
+    <factor> 500 </factor>
     <center>
       <x-m>  -8.55031 </x-m>
       <y-m> -10.75531 </y-m>
@@ -461,8 +461,8 @@
   <animation>
     <type>spin</type>
     <object-name>heliceG2E</object-name>
-    <property>engines/engine[0]/n1</property>
-    <factor> 10 </factor>
+    <property>sim/multiplay/generic/int[13]</property>
+    <factor> 500 </factor>
     <center>
       <x-m>  -3.95065 </x-m>
       <y-m> -10.75508 </y-m>
@@ -478,8 +478,8 @@
   <animation>
     <type>spin</type>
     <object-name>heliceG1I</object-name>
-    <property>engines/engine[1]/n1</property>
-    <factor> 10 </factor>
+    <property>sim/multiplay/generic/int[13]</property>
+    <factor> 500 </factor>
     <center>
       <x-m> -10.60026 </x-m>
       <y-m>  -6.39881 </y-m>
@@ -495,8 +495,8 @@
   <animation>
     <type>spin</type>
     <object-name>heliceG2I</object-name>
-    <property>engines/engine[1]/n1</property>
-    <factor> 10 </factor>
+    <property>sim/multiplay/generic/int[13]</property>
+    <factor> 500 </factor>
     <center>
       <x-m> -6.00062 </x-m>
       <y-m> -6.39870 </y-m>
@@ -512,8 +512,8 @@
   <animation>
     <type>spin</type>
     <object-name>heliceD1I</object-name>
-    <property>engines/engine[2]/n1</property>
-    <factor> 10 </factor>
+    <property>sim/multiplay/generic/int[13]</property>
+    <factor> 500 </factor>
     <center>
       <x-m> -10.60026 </x-m>
       <y-m>   6.39881 </y-m>
@@ -529,8 +529,8 @@
   <animation>
     <type>spin</type>
     <object-name>heliceD2I</object-name>
-    <property>engines/engine[2]/n1</property>
-    <factor> 10 </factor>
+    <property>sim/multiplay/generic/int[13]</property>
+    <factor> 500 </factor>
     <center>
       <x-m> -6.00062 </x-m>
       <y-m>  6.39870 </y-m>
@@ -546,8 +546,8 @@
   <animation>
     <type>spin</type>
     <object-name>heliceD1E</object-name>
-    <property>engines/engine[0]/n1</property>
-    <factor> 10 </factor>
+    <property>sim/multiplay/generic/int[13]</property>
+    <factor> 500 </factor>
     <center>
       <x-m> -8.55031 </x-m>
       <y-m> 10.75531 </y-m>
@@ -563,8 +563,8 @@
   <animation>
     <type>spin</type>
     <object-name>heliceD2E</object-name>
-    <property>engines/engine[3]/n1</property>
-    <factor> 10 </factor>
+    <property>sim/multiplay/generic/int[13]</property>
+    <factor> 500 </factor>
     <center>
       <x-m> -3.95065 </x-m>
       <y-m> 10.75508 </y-m>
