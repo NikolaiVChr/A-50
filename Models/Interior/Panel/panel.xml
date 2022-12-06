@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList>
+
+  <path>panel.ac</path>
+
+  <animation>
+    <!-- Objets opaques -->
+    <object-name>panel</object-name>
+    <object-name>panel2</object-name>
+    <object-name>panel3</object-name>
+    <object-name>panel4</object-name>
+    
+    <!-- Objets transparents -->
+  </animation>
+
+  <!-- YOKES -->
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/yokes/all-yokes.xml</path>
+  </model>
+  
+  <!-- LEFT -->
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Left/left.xml</path>
+    <offsets>
+      <x-m>  1.00421 </x-m>
+      <y-m> -1.50524 </y-m>
+      <z-m>  0.00782 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- PEDESTAL -->
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Pedestal/pedestal.xml</path>
+    <offsets>
+      <x-m>  0.46383 </x-m>
+      <y-m>  0.00000 </y-m>
+      <z-m> -0.31404 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- RIGHT -->
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Right/right.xml</path>
+    <offsets>
+      <x-m> 1.00421 </x-m>
+      <y-m> 1.50524 </y-m>
+      <z-m> 0.00782 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- OVERHEAD -->
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Overhead/overhead.xml</path>
+    <offsets>
+      <x-m> 0.95090 </x-m>
+      <y-m> 0.00000 </y-m>
+      <z-m> 1.02306 </z-m>
+      <pitch-deg> 77 </pitch-deg>
+    </offsets>
+  </model>
+  
+  <!-- ENGINEER -->
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Engineer/engineer.xml</path>
+    <offsets>
+      <x-m> 3.53329 </x-m>
+      <y-m> 1.15695 </y-m>
+      <z-m> 0.00782 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- AI -->
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/ai/ai.xml</path>
+    <offsets>
+      <x-m>  0.00000 </x-m>
+      <y-m> -0.70618 </y-m>
+      <z-m>  0.16000 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/ai/ai.xml</path>
+    <offsets>
+      <x-m> 0.00000 </x-m>
+      <y-m> 0.70618 </y-m>
+      <z-m> 0.16000 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- AI 2 -->
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/ai2/ai2.xml</path>
+    <offsets>
+      <x-m>  0.00000 </x-m>
+      <y-m> -0.43454 </y-m>
+      <z-m>  0.15000 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- ALT -->
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/alt/alt.xml</path>
+    <offsets>
+      <x-m>  0.000 </x-m>
+      <y-m> -0.969 </y-m>
+      <z-m>  0.160 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/alt/alt.xml</path>
+    <offsets>
+      <x-m> 0.000 </x-m>
+      <y-m> 0.440 </y-m>
+      <z-m> 0.160 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- ASI -->
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/asi/asi.xml</path>
+    <offsets>
+      <x-m>  0.000 </x-m>
+      <y-m> -0.845 </y-m>
+      <z-m>  0.160 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/asi/asi.xml</path>
+    <offsets>
+      <x-m> 0.000 </x-m>
+      <y-m> 0.566 </y-m>
+      <z-m> 0.160 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- ASI 2 -->
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/us/ias.xml</path>
+    <offsets>
+      <x-m> -0.003 </x-m>
+      <y-m> -0.845 </y-m>
+      <z-m>  0.024 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/us/ias.xml</path>
+    <offsets>
+      <x-m> -0.003 </x-m>
+      <y-m>  0.566 </y-m>
+      <z-m>  0.024 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- VSI -->
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/vsi/vsi.xml</path>
+    <offsets>
+      <x-m> -0.003 </x-m>
+      <y-m> -0.573 </y-m>
+      <z-m>  0.160 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/vsi/vsi.xml</path>
+    <offsets>
+      <x-m> -0.003 </x-m>
+      <y-m>  0.835 </y-m>
+      <z-m>  0.160 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- TURN -->
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/turn/turn.xml</path>
+    <offsets>
+      <x-m>  0.003 </x-m>
+      <y-m> -0.420 </y-m>
+      <z-m>  0.016 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/turn/turn.xml</path>
+    <offsets>
+      <x-m> 0.003 </x-m>
+      <y-m> 0.956 </y-m>
+      <z-m> 0.160 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- UIZ -->
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/uiz/uiz-1.xml</path>
+    <offsets>
+      <x-m> -0.002 </x-m>
+      <y-m> -0.160 </y-m>
+      <z-m> -0.150 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/uiz/uiz-2.xml</path>
+    <offsets>
+      <x-m> -0.002 </x-m>
+      <y-m> -0.053 </y-m>
+      <z-m> -0.150 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/uiz/uiz-3.xml</path>
+    <offsets>
+      <x-m> -0.002 </x-m>
+      <y-m>  0.053 </y-m>
+      <z-m> -0.150 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/uiz/uiz-4.xml</path>
+    <offsets>
+      <x-m> -0.002 </x-m>
+      <y-m>  0.160 </y-m>
+      <z-m> -0.150 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- UT -->
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/ut/ut7a-1.xml</path>
+    <offsets>
+      <x-m> -0.001 </x-m>
+      <y-m> -0.160 </y-m>
+      <z-m> -0.040 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/ut/ut7a-2.xml</path>
+    <offsets>
+      <x-m> -0.001 </x-m>
+      <y-m> -0.053 </y-m>
+      <z-m> -0.040 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/ut/ut7a-3.xml</path>
+    <offsets>
+      <x-m> -0.001 </x-m>
+      <y-m>  0.053 </y-m>
+      <z-m> -0.040 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/ut/ut7a-4.xml</path>
+    <offsets>
+      <x-m> -0.001 </x-m>
+      <y-m>  0.160 </y-m>
+      <z-m> -0.040 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- RPM -->
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/rpm/rpm-1.xml</path>
+    <offsets>
+      <x-m> -0.001 </x-m>
+      <y-m> -0.160 </y-m>
+      <z-m> -0.254 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/rpm/rpm-2.xml</path>
+    <offsets>
+      <x-m> -0.001 </x-m>
+      <y-m> -0.053 </y-m>
+      <z-m> -0.254 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/rpm/rpm-3.xml</path>
+    <offsets>
+      <x-m> -0.001 </x-m>
+      <y-m>  0.053 </y-m>
+      <z-m> -0.254 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/rpm/rpm-4.xml</path>
+    <offsets>
+      <x-m> -0.001 </x-m>
+      <y-m>  0.160 </y-m>
+      <z-m> -0.254 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- N1 -->
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/n1/n1-1.xml</path>
+    <offsets>
+      <x-m>  0.000 </x-m>
+      <y-m> -0.160 </y-m>
+      <z-m>  0.067 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/n1/n1-2.xml</path>
+    <offsets>
+      <x-m>  0.000 </x-m>
+      <y-m> -0.053 </y-m>
+      <z-m>  0.067 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/n1/n1-3.xml</path>
+    <offsets>
+      <x-m> 0.000 </x-m>
+      <y-m> 0.053 </y-m>
+      <z-m> 0.067 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/n1/n1-4.xml</path>
+    <offsets>
+      <x-m> 0.000 </x-m>
+      <y-m> 0.160 </y-m>
+      <z-m> 0.067 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- WARNING -->
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
+    <offsets>
+      <x-m>  0.00076 </x-m>
+      <y-m> -1.02186 </y-m>
+      <z-m>  0.04598 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
+    <offsets>
+      <x-m>  0.00076 </x-m>
+      <y-m> -1.01086 </y-m>
+      <z-m> -0.06502 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/warning/warning06.xml</path>
+    <offsets>
+      <x-m>  0.00076 </x-m>
+      <y-m> -1.01086 </y-m>
+      <z-m> -0.15902 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
+    <offsets>
+      <x-m>  0.00076 </x-m>
+      <y-m> -1.09386 </y-m>
+      <z-m> -0.05002 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
+    <offsets>
+      <x-m> 0.00076 </x-m>
+      <y-m> 1.04414 </y-m>
+      <z-m> 0.13998 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
+    <offsets>
+      <x-m> 0.00076 </x-m>
+      <y-m> 1.04414 </y-m>
+      <z-m> 0.03198 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
+    <offsets>
+      <x-m>  0.00076 </x-m>
+      <y-m>  1.13214 </y-m>
+      <z-m> -0.07002 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
+    <offsets>
+      <x-m>  0.00076 </x-m>
+      <y-m>  1.13214 </y-m>
+      <z-m> -0.17602 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
+    <offsets>
+      <x-m>  0.00076 </x-m>
+      <y-m> -0.16086 </y-m>
+      <z-m>  0.18498 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
+    <offsets>
+      <x-m>  0.00076 </x-m>
+      <y-m> -0.08886 </y-m>
+      <z-m>  0.18498 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
+    <offsets>
+      <x-m> 0.00076 </x-m>
+      <y-m> 0.08886 </y-m>
+      <z-m> 0.18498 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
+    <offsets>
+      <x-m> 0.00076 </x-m>
+      <y-m> 0.16086 </y-m>
+      <z-m> 0.18498 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/warning/warning06.xml</path>
+    <offsets>
+      <x-m>  0.00076 </x-m>
+      <y-m> -1.01086 </y-m>
+      <z-m> -0.15902 </z-m>
+    </offsets>
+  </model>
+  
+</PropertyList>

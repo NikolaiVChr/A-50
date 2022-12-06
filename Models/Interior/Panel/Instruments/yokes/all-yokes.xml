@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList>
+  
+  <!-- Pilot yoke -->
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/yokes/yoke.xml</path>
+    <offsets>
+      <x-m>  0.49572 </x-m>
+      <y-m> -0.60035 </y-m>
+      <z-m> -0.48754 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- Copilot yoke -->
+  <model>
+    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/yokes/yoke.xml</path>
+    <offsets>
+      <x-m>  0.49572 </x-m>
+      <y-m>  0.60035 </y-m>
+      <z-m> -0.48754 </z-m>
+    </offsets>
+  </model>
+  
+</PropertyList>
