@@ -344,9 +344,9 @@
   </model>
   
   <!-- Interieur -->
-  <model>
+  <!--model>
     <path>Aircraft/IL-76/Models/Interior/interior.xml</path>
-  </model>
+  </model-->
   
   <!-- OSG particles -->
   <!-- Left exterior -->
