@@ -16,12 +16,12 @@
 
   <!-- YOKES -->
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/yokes/all-yokes.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/yokes/all-yokes.xml</path>
   </model>
   
   <!-- LEFT -->
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Left/left.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Left/left.xml</path>
     <offsets>
       <x-m>  1.00421 </x-m>
       <y-m> -1.50524 </y-m>
@@ -31,7 +31,7 @@
   
   <!-- PEDESTAL -->
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Pedestal/pedestal.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Pedestal/pedestal.xml</path>
     <offsets>
       <x-m>  0.46383 </x-m>
       <y-m>  0.00000 </y-m>
@@ -41,7 +41,7 @@
   
   <!-- RIGHT -->
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Right/right.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Right/right.xml</path>
     <offsets>
       <x-m> 1.00421 </x-m>
       <y-m> 1.50524 </y-m>
@@ -51,7 +51,7 @@
   
   <!-- OVERHEAD -->
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Overhead/overhead.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Overhead/overhead.xml</path>
     <offsets>
       <x-m> 0.95090 </x-m>
       <y-m> 0.00000 </y-m>
@@ -62,7 +62,7 @@
   
   <!-- ENGINEER -->
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Engineer/engineer.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Engineer/engineer.xml</path>
     <offsets>
       <x-m> 3.53329 </x-m>
       <y-m> 1.15695 </y-m>
@@ -72,7 +72,7 @@
   
   <!-- AI -->
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/ai/ai.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/ai/ai.xml</path>
     <offsets>
       <x-m>  0.00000 </x-m>
       <y-m> -0.70618 </y-m>
@@ -81,7 +81,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/ai/ai.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/ai/ai.xml</path>
     <offsets>
       <x-m> 0.00000 </x-m>
       <y-m> 0.70618 </y-m>
@@ -91,7 +91,7 @@
   
   <!-- AI 2 -->
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/ai2/ai2.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/ai2/ai2.xml</path>
     <offsets>
       <x-m>  0.00000 </x-m>
       <y-m> -0.43454 </y-m>
@@ -101,7 +101,7 @@
   
   <!-- ALT -->
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/alt/alt.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/alt/alt.xml</path>
     <offsets>
       <x-m>  0.000 </x-m>
       <y-m> -0.969 </y-m>
@@ -110,7 +110,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/alt/alt.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/alt/alt.xml</path>
     <offsets>
       <x-m> 0.000 </x-m>
       <y-m> 0.440 </y-m>
@@ -120,7 +120,7 @@
   
   <!-- ASI -->
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/asi/asi.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/asi/asi.xml</path>
     <offsets>
       <x-m>  0.000 </x-m>
       <y-m> -0.845 </y-m>
@@ -129,7 +129,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/asi/asi.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/asi/asi.xml</path>
     <offsets>
       <x-m> 0.000 </x-m>
       <y-m> 0.566 </y-m>
@@ -139,7 +139,7 @@
   
   <!-- ASI 2 -->
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/us/ias.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/us/ias.xml</path>
     <offsets>
       <x-m> -0.003 </x-m>
       <y-m> -0.845 </y-m>
@@ -148,7 +148,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/us/ias.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/us/ias.xml</path>
     <offsets>
       <x-m> -0.003 </x-m>
       <y-m>  0.566 </y-m>
@@ -158,7 +158,7 @@
   
   <!-- VSI -->
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/vsi/vsi.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/vsi/vsi.xml</path>
     <offsets>
       <x-m> -0.003 </x-m>
       <y-m> -0.573 </y-m>
@@ -167,7 +167,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/vsi/vsi.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/vsi/vsi.xml</path>
     <offsets>
       <x-m> -0.003 </x-m>
       <y-m>  0.835 </y-m>
@@ -177,7 +177,7 @@
   
   <!-- TURN -->
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/turn/turn.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/turn/turn.xml</path>
     <offsets>
       <x-m>  0.003 </x-m>
       <y-m> -0.420 </y-m>
@@ -186,7 +186,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/turn/turn.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/turn/turn.xml</path>
     <offsets>
       <x-m> 0.003 </x-m>
       <y-m> 0.956 </y-m>
@@ -196,7 +196,7 @@
   
   <!-- UIZ -->
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/uiz/uiz-1.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/uiz/uiz-1.xml</path>
     <offsets>
       <x-m> -0.002 </x-m>
       <y-m> -0.160 </y-m>
@@ -205,7 +205,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/uiz/uiz-2.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/uiz/uiz-2.xml</path>
     <offsets>
       <x-m> -0.002 </x-m>
       <y-m> -0.053 </y-m>
@@ -214,7 +214,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/uiz/uiz-3.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/uiz/uiz-3.xml</path>
     <offsets>
       <x-m> -0.002 </x-m>
       <y-m>  0.053 </y-m>
@@ -223,7 +223,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/uiz/uiz-4.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/uiz/uiz-4.xml</path>
     <offsets>
       <x-m> -0.002 </x-m>
       <y-m>  0.160 </y-m>
@@ -233,7 +233,7 @@
   
   <!-- UT -->
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/ut/ut7a-1.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/ut/ut7a-1.xml</path>
     <offsets>
       <x-m> -0.001 </x-m>
       <y-m> -0.160 </y-m>
@@ -242,7 +242,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/ut/ut7a-2.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/ut/ut7a-2.xml</path>
     <offsets>
       <x-m> -0.001 </x-m>
       <y-m> -0.053 </y-m>
@@ -251,7 +251,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/ut/ut7a-3.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/ut/ut7a-3.xml</path>
     <offsets>
       <x-m> -0.001 </x-m>
       <y-m>  0.053 </y-m>
@@ -260,7 +260,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/ut/ut7a-4.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/ut/ut7a-4.xml</path>
     <offsets>
       <x-m> -0.001 </x-m>
       <y-m>  0.160 </y-m>
@@ -270,7 +270,7 @@
   
   <!-- RPM -->
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/rpm/rpm-1.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/rpm/rpm-1.xml</path>
     <offsets>
       <x-m> -0.001 </x-m>
       <y-m> -0.160 </y-m>
@@ -279,7 +279,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/rpm/rpm-2.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/rpm/rpm-2.xml</path>
     <offsets>
       <x-m> -0.001 </x-m>
       <y-m> -0.053 </y-m>
@@ -288,7 +288,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/rpm/rpm-3.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/rpm/rpm-3.xml</path>
     <offsets>
       <x-m> -0.001 </x-m>
       <y-m>  0.053 </y-m>
@@ -297,7 +297,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/rpm/rpm-4.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/rpm/rpm-4.xml</path>
     <offsets>
       <x-m> -0.001 </x-m>
       <y-m>  0.160 </y-m>
@@ -307,7 +307,7 @@
   
   <!-- N1 -->
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/n1/n1-1.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/n1/n1-1.xml</path>
     <offsets>
       <x-m>  0.000 </x-m>
       <y-m> -0.160 </y-m>
@@ -316,7 +316,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/n1/n1-2.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/n1/n1-2.xml</path>
     <offsets>
       <x-m>  0.000 </x-m>
       <y-m> -0.053 </y-m>
@@ -325,7 +325,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/n1/n1-3.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/n1/n1-3.xml</path>
     <offsets>
       <x-m> 0.000 </x-m>
       <y-m> 0.053 </y-m>
@@ -334,7 +334,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/n1/n1-4.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/n1/n1-4.xml</path>
     <offsets>
       <x-m> 0.000 </x-m>
       <y-m> 0.160 </y-m>
@@ -344,7 +344,7 @@
   
   <!-- WARNING -->
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
     <offsets>
       <x-m>  0.00076 </x-m>
       <y-m> -1.02186 </y-m>
@@ -353,7 +353,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
     <offsets>
       <x-m>  0.00076 </x-m>
       <y-m> -1.01086 </y-m>
@@ -362,7 +362,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/warning/warning06.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/warning/warning06.xml</path>
     <offsets>
       <x-m>  0.00076 </x-m>
       <y-m> -1.01086 </y-m>
@@ -371,7 +371,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
     <offsets>
       <x-m>  0.00076 </x-m>
       <y-m> -1.09386 </y-m>
@@ -380,7 +380,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
     <offsets>
       <x-m> 0.00076 </x-m>
       <y-m> 1.04414 </y-m>
@@ -389,7 +389,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
     <offsets>
       <x-m> 0.00076 </x-m>
       <y-m> 1.04414 </y-m>
@@ -398,7 +398,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
     <offsets>
       <x-m>  0.00076 </x-m>
       <y-m>  1.13214 </y-m>
@@ -407,7 +407,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
     <offsets>
       <x-m>  0.00076 </x-m>
       <y-m>  1.13214 </y-m>
@@ -416,7 +416,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
     <offsets>
       <x-m>  0.00076 </x-m>
       <y-m> -0.16086 </y-m>
@@ -425,7 +425,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
     <offsets>
       <x-m>  0.00076 </x-m>
       <y-m> -0.08886 </y-m>
@@ -434,7 +434,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
     <offsets>
       <x-m> 0.00076 </x-m>
       <y-m> 0.08886 </y-m>
@@ -443,7 +443,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/warning/warning10.xml</path>
     <offsets>
       <x-m> 0.00076 </x-m>
       <y-m> 0.16086 </y-m>
@@ -452,7 +452,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/warning/warning06.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/warning/warning06.xml</path>
     <offsets>
       <x-m>  0.00076 </x-m>
       <y-m> -1.01086 </y-m>

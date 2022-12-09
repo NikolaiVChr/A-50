@@ -6,12 +6,12 @@
 
   <!-- MP sound call -->
   <sound>
-    <path>Aircraft/IL-76/Sounds/mp-sound.xml</path>
+    <path>Aircraft/A-50/Sounds/mp-sound.xml</path>
   </sound>
   
   <nasal>
     <load>
-      var livery_update = aircraft.livery_update.new("Aircraft/IL-76/Models/Liveries", 10);
+      var livery_update = aircraft.livery_update.new("Aircraft/A-50/Models/Liveries", 10);
 
       var self = cmdarg();
 
@@ -324,7 +324,7 @@
   
   <!-- working for Rembrandt -->
   <effect>
-    <inherits-from>Aircraft/IL-76/Models/Effects/Glass/glass</inherits-from>
+    <inherits-from>Aircraft/A-50/Models/Effects/Glass/glass</inherits-from>
     <object-name>vitres</object-name>
   </effect>
   
@@ -335,7 +335,7 @@
   
   <!-- Une ombre pour OSG -->
   <model>
-    <path>Aircraft/IL-76/Models/shadow.xml</path>
+    <path>Aircraft/A-50/Models/shadow.xml</path>
     <offsets>
       <x-m>  0 </x-m>
       <y-m>  0 </y-m>
@@ -344,14 +344,14 @@
   </model>
   
   <!-- Interieur -->
-  <!--model>
-    <path>Aircraft/IL-76/Models/Interior/interior.xml</path>
-  </model-->
+  <model>
+    <path>Aircraft/A-50/Models/Interior/interior.xml</path>
+  </model>
   
   <!-- OSG particles -->
   <!-- Left exterior -->
   <model>
-    <path>Aircraft/IL-76/Models/Effects/trail/trail1.xml</path>
+    <path>Aircraft/A-50/Models/Effects/trail/trail1.xml</path>
     <offsets>
       <x-m>  -3.518 </x-m>
       <y-m> -10.754 </y-m>
@@ -361,7 +361,7 @@
   
   <!-- Left interior -->
   <model>
-    <path>Aircraft/IL-76/Models/Effects/trail/trail2.xml</path>
+    <path>Aircraft/A-50/Models/Effects/trail/trail2.xml</path>
     <offsets>
       <x-m> -9.431 </x-m>
       <y-m> -6.400" </y-m>
@@ -371,7 +371,7 @@
   
   <!-- Right interior -->
   <model>
-    <path>Aircraft/IL-76/Models/Effects/trail/trail3.xml</path>
+    <path>Aircraft/A-50/Models/Effects/trail/trail3.xml</path>
     <offsets>
       <x-m> -9.431 </x-m>
       <y-m>  6.400" </y-m>
@@ -381,7 +381,7 @@
   
   <!-- Right exterior -->
   <model>
-    <path>Aircraft/IL-76/Models/Effects/trail/trail4.xml</path>
+    <path>Aircraft/A-50/Models/Effects/trail/trail4.xml</path>
     <offsets>
       <x-m> -3.518 </x-m>
       <y-m> 10.754 </y-m>
@@ -392,7 +392,7 @@
   <!-- Effets sur le sol -->
   <!-- Roue avant -->
   <model>
-    <path>Aircraft/IL-76/Models/Effects/ground/ground0.xml</path>
+    <path>Aircraft/A-50/Models/Effects/ground/ground0.xml</path>
     <offsets>
       <x-m> -14.70944 </x-m>
       <y-m>   0.00000 </y-m>
@@ -402,7 +402,7 @@
   
   <!-- Roue gauche 1 -->
   <model>
-    <path>Aircraft/IL-76/Models/Effects/ground/ground1.xml</path>
+    <path>Aircraft/A-50/Models/Effects/ground/ground1.xml</path>
     <offsets>
       <x-m> -3.18118 </x-m>
       <y-m> -3.19368 </y-m>
@@ -412,7 +412,7 @@
   
   <!-- Roue gauche 2 -->
   <model>
-    <path>Aircraft/IL-76/Models/Effects/ground/ground2.xml</path>
+    <path>Aircraft/A-50/Models/Effects/ground/ground2.xml</path>
     <offsets>
       <x-m> -0.67003 </x-m>
       <y-m> -3.19368 </y-m>
@@ -422,7 +422,7 @@
   
   <!-- Roue droite 1 -->
   <model>
-    <path>Aircraft/IL-76/Models/Effects/ground/ground3.xml</path>
+    <path>Aircraft/A-50/Models/Effects/ground/ground3.xml</path>
     <offsets>
       <x-m> -3.18118 </x-m>
       <y-m>  3.19368 </y-m>
@@ -432,7 +432,7 @@
   
   <!-- Roue droite 2 -->
   <model>
-    <path>Aircraft/IL-76/Models/Effects/ground/ground4.xml</path>
+    <path>Aircraft/A-50/Models/Effects/ground/ground4.xml</path>
     <offsets>
       <x-m> -0.67003 </x-m>
       <y-m>  3.19368 </y-m>
@@ -2440,7 +2440,7 @@
   
   <!-- Ajout des effets lumineux -->
   <model>
-    <path>Aircraft/IL-76/Models/lights/beacon.xml</path>
+    <path>Aircraft/A-50/Models/lights/beacon.xml</path>
     <offsets>
       <x-m> 15.75844 </x-m>
       <y-m>  0.00000 </y-m>
@@ -2449,7 +2449,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/lights/beacon.xml</path>
+    <path>Aircraft/A-50/Models/lights/beacon.xml</path>
     <offsets>
       <x-m> -11.14155 </x-m>
       <y-m>   0.00000 </y-m>
@@ -2458,7 +2458,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/lights/RedLight.xml</path>
+    <path>Aircraft/A-50/Models/lights/RedLight.xml</path>
     <offsets>
       <x-m>   3.76994 </x-m>
       <y-m> -25.16314 </y-m>
@@ -2467,7 +2467,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/lights/StrobeLight.xml</path>
+    <path>Aircraft/A-50/Models/lights/StrobeLight.xml</path>
     <offsets>
       <x-m>   3.80994 </x-m>
       <y-m> -25.16314 </y-m>
@@ -2476,7 +2476,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/lights/GreenLight.xml</path>
+    <path>Aircraft/A-50/Models/lights/GreenLight.xml</path>
     <offsets>
       <x-m>  3.76994 </x-m>
       <y-m> 25.16314 </y-m>
@@ -2485,7 +2485,7 @@
   </model>
   
   <model>
-    <path>Aircraft/IL-76/Models/lights/StrobeLight.xml</path>
+    <path>Aircraft/A-50/Models/lights/StrobeLight.xml</path>
     <offsets>
       <x-m>  3.80994 </x-m>
       <y-m> 25.16314 </y-m>

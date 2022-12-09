@@ -28,7 +28,7 @@
 
   <!-- working for Rembrandt -->
   <effect>
-    <inherits-from>Aircraft/IL-76/Models/Effects/Glass/glass</inherits-from>
+    <inherits-from>Aircraft/A-50/Models/Effects/Glass/glass</inherits-from>
     <object-name>vitre</object-name>
   </effect>
   

@@ -4,7 +4,7 @@
   
   <!-- Pilot yoke -->
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/yokes/yoke.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/yokes/yoke.xml</path>
     <offsets>
       <x-m>  0.49572 </x-m>
       <y-m> -0.60035 </y-m>
@@ -14,7 +14,7 @@
   
   <!-- Copilot yoke -->
   <model>
-    <path>Aircraft/IL-76/Models/Interior/Panel/Instruments/yokes/yoke.xml</path>
+    <path>Aircraft/A-50/Models/Interior/Panel/Instruments/yokes/yoke.xml</path>
     <offsets>
       <x-m>  0.49572 </x-m>
       <y-m>  0.60035 </y-m>
